@@ -63,7 +63,7 @@ Some breeds were underrepresented (e.g., Sphynx, Rex), leading to a class imbala
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/ktmcquinn/cat-breed-classification.git
+    git clone https://github.com/ktmcquinn/Cat-Breed-Image-Classifier
     cd Cat-Breed-Image-Classifier
     ```
 
