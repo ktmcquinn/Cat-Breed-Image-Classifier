@@ -74,7 +74,7 @@ Some breeds were underrepresented (e.g., Sphynx, Rex), leading to a class imbala
 
 3. Launch the notebook:
     ```bash
-    jupyter notebook notebooks/cat_breed_classifier.ipynb
+    jupyter notebook notebooks/Cat_Breed_Classifier.ipynb
     ```
 
 4. (Optional) Update dataset paths in the notebook to match your environment.
