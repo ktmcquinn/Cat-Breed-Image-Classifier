@@ -97,12 +97,6 @@ Some breeds were underrepresented (e.g., Sphynx, Rex), leading to a class imbala
 
 ---
 
-##  License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ##  Acknowledgements
 
 - Kaggle datasets contributors for cat breed images
